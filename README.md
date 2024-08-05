@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kenny5033
-- 👀 I’m interested in Computer Science, especially Software Engeneering.
-- 🌱 I’m currently learning at Calvin University, taking a Python course currently.
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me kenneth.howes53@gmail.com.
+Hi, I’m @kenny5033
+I’m everything Computer Science, Software Engeneering, and IT. Especially Embedded Systems and Low Level Programming.
+I’m currently studying Computer Science at Calvin University, Michigan.
+I’m looking to collaborate on any good idea!
+📫 How to reach me kmh67@calvin.edu.
 
 <!---
 kenny5033/kenny5033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
